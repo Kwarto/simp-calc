@@ -13,6 +13,8 @@ This version perform the following math function
 
 # Python Functions & Variables
 The project is done only with functions and variables first 
+It will be updated as we move on to our next topic that
+Conditionals - if, elsif, else, or, ==, switch, 
 
 # This project is beginner friendly and open source you can clone
 # Because every line of code comes with explanation
@@ -26,3 +28,4 @@ in touch and ignite our tech dreams together
 - [LinkedIn](https://likedin.com/in/jay-kwart)
 - [Website](https://jkwart.netlify.app)
 - [Email](mailto://bluspacedev@gmail.com)
+- [WhatsApp](https://wa.me/+233549569702)
