@@ -12,7 +12,7 @@ This version perform the following math function
 - [@SquareRoot]
 
 # Python Functions & Variables
-The project is done only with functions and variables first 
+The project is done only with functions and variables
 It will be updated as we move on to our next topic that
 Conditionals - if, elsif, else, or, ==, switch, 
 
